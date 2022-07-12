@@ -1,80 +1,100 @@
 {
     "name": "Garry_potter",
-    "time": 19h
+    "time": 19,
+    "src": "../images/films/harry.jpg"
 }
 {
     "name": "Pirates",
-    "time": 12.15h
+    "time": 12.15,
+    "src": "../images/films/pirates.jpg"
 }
 {
     "name": "Star_wars",
-    "time": 18h
+    "time": 18,
+    "src": "../images/films/starwar.jpg"
 }
 {
     "name": "Marvel",
-    "time": 38h
+    "time": 38,
+    "src": "../images/films/marvel.jpg"
 }
 {
     "name": "Matrix",
-    "time": 9.2h
+    "time": 9.2,
+    "src": "../images/films/matrix.jpg"
 }
 {
     "name": "Mandalorec",
-    "time": 22h
+    "time": 22,
+    "src": "../images/films/mandalorec.jpg"
 }
 {
     "name": "Xmens",
-    "time": 13.6h
+    "time": 13.6,
+    "src": "../images/films/xmen.jpg"
 }
 {
     "name": "Lords_of_the_rings",
-    "time": 9h
+    "time": 9,
+    "src": "../images/films/lordring.jpg"
 }
 {
     "name": "Justice",
-    "time": 4h
+    "time": 4,
+    "src": "../images/films/acvamen.jpg"
 }
 {
     "name": "Hobbit",
-    "time": 9h
+    "time": 9,
+    "src": "../images/films/hobbit.jpg"
 }
 {
     "name": "Taxi",
-    "time": 6h
+    "time": 6,
+    "src": "../images/films/taxi.jpg"
 }
 {
     "name": "Spider_Tobi",
-    "time": 6h
+    "time": 6,
+    "src": "../images/films/spidertobi.jpg"
 }
 {
     "name": "Spider_Garfild",
-    "time": 4h
+    "time": 4,
+    "src": "../images/films/spidergarf.jpg"
 }
 {
     "name": "Drug_pauchok",
-    "time": 6h
+    "time": 6,
+    "src": "../images/films/spidernew.jpg"
 }
 {
     "name": "MIB",
-    "time": 6h
+    "time": 6,
+    "src": "../images/films/mib.jpg"
 }
 {
     "name": "Alien",
-    "time": 12h
+    "time": 12,
+    "src": "../images/films/chuzhoi.jpg"
 }
 {
     "name": "Batman",
-    "time": 27h
+    "time": 27,
+    "src": "../images/films/batman.jpg"
 }
 {
     "name": "Shrek",
-    "time": 6h
+    "time": 6,
+    "src": "../images/films/shrek.jpg"
 }
 {
     "name": "FastandFurious",
-    "time": 18h
+    "time": 18,
+    "src": "../images/films/forsazh.jpg"
 }
 {
     "name": "OdinDoma",
-    "time": 5h
+    "time": 5,
+    "src": "../images/films/odindoma.jpg"
 }

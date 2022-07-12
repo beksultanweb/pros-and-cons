@@ -1,12 +1,12 @@
 {
     "name": "pushups",
-    "min": 1,
-    "timeMin": 4s
+    "min": 900,
+    "timeMin": 1
 }
 {
     "name": "relationships",
     "min": 1,
-    "timeMin": 2000h
+    "timeMin": 2000
 }
 {
     "name": "learn english words",
@@ -16,145 +16,145 @@
 {
     "name": "plant trees",
     "min": 1,
-    "timeMin": 2h
+    "timeMin": 2
 }
 {
     "name": "swim the English Channel (32km - the shortest way)",
     "min": 32,
-    "timeMin": 14h
+    "timeMin": 14
 }
 {
     "name": "проехать на велике по городу (20km/h)",
     "min": 20,
-    "timeMin": 1h
+    "timeMin": 1
 }
 {
     "name": "сделать шагов",
     "min": 3600,
-    "timeMin": 1h
+    "timeMin": 1
 }
 {
     "name": "отрастил длинные волосы (18 сm)",
     "min": 18,
-    "timeMin": 8760h
+    "timeMin": 8760
 }
 {
     "name": "пробежать км",
     "min": 10,
-    "timeMin": 1h
+    "timeMin": 1
 }
 {
     "name": "приготовить пиццу",
-    "min": 1,
-    "timeMin": 0.5h
+    "min": 2,
+    "timeMin": 1
 }
 {
     "name": "позвонить маме",
-    "min": 1,
-    "timeMin": 0.1h
+    "min": 10,
+    "timeMin": 1
 }
 {
     "name": "провести время с родителями",
     "min": 1,
-    "timeMin": 2h
+    "timeMin": 2
 }
 {
     "name": "познакомиться с новыми людьми",
-    "min": 1,
-    "timeMin": 0.5h
+    "min": 2,
+    "timeMin": 1
 }
 {
     "name": "сколько набрал бы мышечной массы",
     "min": 5,
-    "timeMin": 2920h
+    "timeMin": 2920
 }
 {
     "name": "сколько раз добрался бы на машине от Алматы до Астаны",
     "min": 1,
-    "timeMin": 16h
+    "timeMin": 16
 }
 {
     "name": "сколько раз сделал бы предложение",
     "min": 1,
-    "timeMin": 8766h
+    "timeMin": 8766
 }
 {
     "name": "сколько посетил бы стран (по 2 недели в каждой)",
     "min": 1,
-    "timeMin": 336h
+    "timeMin": 336
 }
 {
     "name": "сколько заработал бы на крипте из 100 долларов (доходность ~+9%)",
     "min": 9,
-    "timeMin":
+    "timeMin": 8766
 }
 {
     "name": "сколько заработал бы на акциях S&P500 из 100 долларов (доходность ~+9,8%)",
     "min": 9.8,
-    "timeMin": 8766h
+    "timeMin": 8766
 }
 {
     "name": "сколько раз бы прошел триатлон (51,5km)",
-    "min": 51.5,
-    "timeMin": 11h
+    "min": 51,
+    "timeMin": 11
 }
 {
     "name": "сколько бы раз съел беш",
     "min": 1,
-    "timeMin": 1.5h
+    "timeMin": 1.5
 }
 {
     "name": "сколько бы прочитал книг (300 слов в минуту в среднем)",
-    "min": 300,
-    "timeMin": 1min
+    "min": 18000,
+    "timeMin": 1
 }
 {
     "name": "сколько сделал бы подтягивании",
-    "min": 1,
-    "timeMin": 4s
+    "min": 900,
+    "timeMin": 1
 }
 {
     "name": "сколько сделал бы приседании",
-    "min": 1,
-    "timeMin": 4s
+    "min": 900,
+    "timeMin": 1
 }
 {
     "name": "сколько написал бы строк кода",
-    "min": 1,
-    "timeMin": 6s
+    "min": 600,
+    "timeMin": 1
 }
 {
     "name": "сколько написал бы дипломок",
     "min": 1,
-    "timeMin": 730h
+    "timeMin": 730
 }
 {
     "name": "сколько раз бы запустил свой стартап",
     "min": 1,
-    "timeMin": 730h
+    "timeMin": 730
 }
 {
     "name": "сколько раз стал бы миллионером",
     "min": 1,
-    "timeMin": 26298h
+    "timeMin": 26298
 }
 {
     "name": "сколько раз бы облетел Экватор на самолете",
     "min": 1,
-    "timeMin": 50h
+    "timeMin": 50
 }
 {
     "name": "сколько бы раз облетел вокруг Земли на МКС",
     "min": 1,
-    "timeMin": 1.5h
+    "timeMin": 1.5
 }
 {
     "name": "сколько бы раз долетел до Марса",
     "min": 1,
-    "timeMin": 3879h
+    "timeMin": 3879
 }
 {
     "name": "сколько бы раз покорил Эверест вместе с подготовкой",
     "min": 1,
-    "timeMin": 1140h
+    "timeMin": 1140
 }
