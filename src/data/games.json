@@ -1,0 +1,53 @@
+        {
+            "name": "Dota2",
+            "time": 1000,
+            "src": "../images/game/dota2.jpg"
+        }, {
+            "name": "Counter Strike",
+            "time": 1000,
+            "src": "../images/game/csgo.jpg"
+        }, {
+            "name": "StarCraft",
+            "time": 1000,
+            "src": "../images/game/starcraft.jpg"
+        }, {
+            "name": "Ведьмак",
+            "time": 1000,
+            "src": "../images/game/the-witcher.jpg"
+        }, {
+            "name": "Skyrim",
+            "time": 1000,
+            "src": "../images/game/skyrim.jpg"
+        }, {
+            "name": "FIFA",
+            "time": 1000,
+            "src": "../images/game/fifa.jpg"
+        }, {
+            "name": "UFC",
+            "time": 1000,
+            "src": "../images/game/ufc.jpg"
+        }, {
+            "name": "Mortal Combat",
+            "time": 1000,
+            "src": "../images/game/mortal-kombat.jpg"
+        }, {
+            "name": "TotalWar",
+            "time": 1000,
+            "src": "../images/game/total-war.jpg"
+        }, {
+            "name": "Sims",
+            "time": 1000,
+            "src": "../images/game/sims.jpg"
+        }, {
+            "name": "GTA",
+            "time": 1000,
+            "src": "../images/game/gta.jpg"
+        }, {
+            "name": "Minecraft",
+            "time": 1000,
+            "src": "../images/game/minecraft.jpg"
+        }, {
+            "name": "Civilization",
+            "time": 1000,
+            "src": "../images/game/civa6.jpg"
+        }
