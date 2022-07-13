@@ -12,7 +12,7 @@ const ArrayList = () => {
     const [countTime, setCountTime] = useState(0);
     const [selector, setSelector] = useState(1);
     const [activeItems, setActiveItems] = useState(animeList);
-    // const [lookResult, setLookResult] = useState(false);
+    const [lookResult, setLookResult] = useState(true);
 
     const handleItemActivated = ({key}) => {
         const activeItem = activeItems.map((item)=>{
@@ -63,10 +63,11 @@ const ArrayList = () => {
             newTarget++;
             setSelector(newTarget);
             changeUseState(newTarget)
+            if(newTarget >= 5){
+                setLookResult(false)
+            }
         }
-        else{
-            // setLookResult(true)
-        }
+
     }
 
     console.log("selector is: ", selector);
@@ -116,7 +117,7 @@ const ArrayList = () => {
                 <img src={item.src} alt={item.name} />
             </div>))}
             </div>
-            <button onClick={btnClicked}>Далее</button>
+            {lookResult ?<button onClick={btnClicked}>Далее</button>: null}
             {selector === 5 &&
             <div className="result">
                 {/* formula: sum of active media.time / habit.mintime * habit.min --rounded */}
