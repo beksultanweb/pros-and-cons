@@ -1,0 +1,35 @@
+.array-list{
+    display: flex;
+    /* align-items: center; */
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 2px;
+    flex-wrap: wrap;
+}
+.array-item{
+    border: none;
+    cursor: pointer;
+    /* width: 100; */
+    /* height: 30vh; */
+}
+.array-item:active{
+    position: relative;
+	top: .2em;
+}
+.array-item.active {
+    border: 2px solid blue;
+  }
+  
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+.array-task, button{
+    padding: 30px;
+    display: block;
+    font-size: 32px;
+    margin: 0 auto;
+    text-align: center;
+}
