@@ -35,7 +35,7 @@ export const habitsList = [{
 },
 {
     "name": "Сколько бы сделал шагов:",
-    "min": 3600,
+    "min": 1000,
     "timeMin": 1
 },
 {
