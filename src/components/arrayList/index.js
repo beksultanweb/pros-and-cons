@@ -12,27 +12,50 @@ const ArrayList = () => {
     const [countTime, setCountTime] = useState(0);
     const [selector, setSelector] = useState(1);
     const [activeItems, setActiveItems] = useState(animeList);
+    // const [lookResult, setLookResult] = useState(false);
 
     const handleItemActivated = ({key}) => {
         const activeItem = activeItems.map((item)=>{
             if (item.key === key){
-                setCountTime((count) => count + item.time)
-                console.log(countTime)
+                if (item.isActive === false){
+                    setCountTime((count) => count + item.time)
+                }
+                else if (item.isActive === true){
+                    setCountTime((count) => count - item.time)
+                }
                 return {...item, isActive: !item.isActive};
             }
             else {
+                // setbuttonActive(false)
                 // setCountTime((count) => count - item.time)    
                 return item;
             }
           })
           
           setActiveItems(activeItem)
+          
     }
-
-    // const calculateTime = () => {
-//formula: sum of active media.time / habit.mintime * habit.min --rounded
+    // const handleItemDecrement = ({key}) => {
+    //     const activeItem = activeItems.map((item)=>{
+    //         if (item.key === key){
+    //             setCountTime((count) => count - item.time)
+    //             setbuttonActive(false);
+    //             return {...item, isActive: !item.isActive};
+    //         }
+    //         else {
+    //             // setbuttonActive(false)
+    //             // setCountTime((count) => count - item.time)    
+    //             return item;
+    //         }
+    //       })
+          
+    //       setActiveItems(activeItem)
     // }
-    let lookResult = false;
+    console.log(countTime)
+    
+//formula: sum of active media.time / habit.mintime * habit.min --rounded
+    
+    
 
     const btnClicked = () => {
         let newTarget = parseInt(selector);
@@ -42,9 +65,11 @@ const ArrayList = () => {
             changeUseState(newTarget)
         }
         else{
-            lookResult = true;
+            // setLookResult(true)
         }
     }
+
+    console.log("selector is: ", selector);
 
     const changeUseState = (prevSelectorValue) => {
         console.log(prevSelectorValue);
@@ -92,14 +117,15 @@ const ArrayList = () => {
             </div>))}
             </div>
             <button onClick={btnClicked}>Далее</button>
-            {lookResult === true && habitsList.map((habit) => (
+            {selector === 5 &&
             <div className="result">
                 {countTime}
+                {habitsList.map((habit) => (
                 <div className="result-item" key={habit.name}>
                     {habit.name}
-                </div>
-            </div>
-            ))}
+                </div>))}
+            </div>}
+            
         </div>
     )
 }

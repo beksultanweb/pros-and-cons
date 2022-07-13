@@ -4,151 +4,176 @@ export const animeList = [{
         "key": myNewId(),
         "name": "Наруто",
         "time": 270,
-        "src": "../../images/anime/наруто.jpg"
+        "src": "../../images/anime/наруто.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Аватар",
         "time": 24,
-        "src": "../../images/anime/аватра.jpg"
+        "src": "../../images/anime/аватра.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Убийца Акамэ",
         "time": 9.2,
-        "src": "../../images/anime/акаме.jpg"
+        "src": "../../images/anime/акаме.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Ангельские Ритмы",
         "time": 5,
-        "src": "../../images/anime/ангельские-ритмы.jpg"
+        "src": "../../images/anime/ангельские-ритмы.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Атака Титанов",
         "time": 33.4,
-        "src": "../../images/anime/атака-титанов.jpg"
+        "src": "../../images/anime/атака-титанов.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Волейбол",
         "time": 34.5,
-        "src": "../../images/anime/волейбол.jpg"
+        "src": "../../images/anime/волейбол.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Баскетбол Куроко",
         "time": 31,
-        "src": "../../images/anime/баскетбол.jpg"
+        "src": "../../images/anime/баскетбол.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Безумный Азарт",
         "time": 9.2,
-        "src": "../../images/anime/безумный-азарт.jpg"
+        "src": "../../images/anime/безумный-азарт.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Bleach",
         "time": 140.3,
-        "src": "../../images/anime/блич.jpg"
+        "src": "../../images/anime/блич.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Ванпанчмен",
         "time": 12,
-        "src": "../../images/anime/ванпанчмен.jpg"
+        "src": "../../images/anime/ванпанчмен.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Ван Пис",
         "time": 385,
-        "src": "../../images/anime/ванпич.jpg"
+        "src": "../../images/anime/ванпич.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Вайолет Эвергарден",
         "time": 8,
-        "src": "../../images/anime/виолет-евергарден.jpg"
+        "src": "../../images/anime/виолет-евергарден.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Врата Штейна",
         "time": 20.5,
-        "src": "../../images/anime/врата-штейна.jpg"
+        "src": "../../images/anime/врата-штейна.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Госпажа Кагуя",
         "time": 15.2,
-        "src": "../../images/anime/гаспожа-кагуя.jpg"
+        "src": "../../images/anime/гаспожа-кагуя.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Герой щит",
         "time": 14.5,
-        "src": "../../images/anime/герой-щит.jpg"
+        "src": "../../images/anime/герой-щит.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Этот глупый свин не понимает мечту девочки-зайки",
         "time": 6,
-        "src": "../../images/anime/глупый-свин2.jpg"
+        "src": "../../images/anime/глупый-свин2.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Город в котором меня нет",
         "time": 5,
-        "src": "../../images/anime/город-в-котором.jpg"
+        "src": "../../images/anime/город-в-котором.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Дневник будущего",
         "time": 10.3,
-        "src": "../../images/anime/дневник-будущего.jpg"
+        "src": "../../images/anime/дневник-будущего.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Доктор Стоун",
         "time": 14,
-        "src": "../../images/anime/доктор-стоун.jpg"
+        "src": "../../images/anime/доктор-стоун.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Другая",
         "time": 5,
-        "src": "../../images/anime/другая.jpg"
+        "src": "../../images/anime/другая.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Евангелион",
         "time": 16,
-        "src": "../../images/anime/евангелион.jpg"
+        "src": "../../images/anime/евангелион.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "За гранью",
         "time": 6,
-        "src": "../../images/anime/за-гранью.jpg"
+        "src": "../../images/anime/за-гранью.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Ковбой Бибоп",
         "time": 10,
-        "src": "../../images/anime/кавбой.jpg"
+        "src": "../../images/anime/кавбой.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Класс убийц",
         "time": 19,
-        "src": "../../images/anime/класс-убийц.jpg"
+        "src": "../../images/anime/класс-убийц.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Клинок рассекающий демонов",
         "time": 18,
-        "src": "../../images/anime/клинок-демонов.jpg"
+        "src": "../../images/anime/клинок-демонов.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
