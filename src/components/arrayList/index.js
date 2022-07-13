@@ -53,7 +53,7 @@ const ArrayList = () => {
     // }
     console.log(countTime)
     
-//formula: sum of active media.time / habit.mintime * habit.min --rounded
+
     
     
 
@@ -119,10 +119,11 @@ const ArrayList = () => {
             <button onClick={btnClicked}>Далее</button>
             {selector === 5 &&
             <div className="result">
-                {countTime}
+                {/* formula: sum of active media.time / habit.mintime * habit.min --rounded */}
+                <div className="array-task">Ты потратил {countTime} часов, {(countTime/24).toFixed(4)} дней своей жизни. Вот что ты бы мог сделать:</div>
                 {habitsList.map((habit) => (
-                <div className="result-item" key={habit.name}>
-                    {habit.name}
+                <div className="result-list" key={habit.name}>
+                    {habit.name} {Math.round(countTime / habit.timeMin * habit.min)}
                 </div>))}
             </div>}
             

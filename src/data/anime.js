@@ -179,132 +179,154 @@ export const animeList = [{
         "key": myNewId(),
         "name": "Код гиас",
         "time": 35,
-        "src": "../../images/anime/код-гиас.jpg"
+        "src": "../../images/anime/код-гиас.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Магическая битва",
         "time": 9,
-        "src": "../../images/anime/магическая-битва.jpg"
+        "src": "../../images/anime/магическая-битва.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Мастера меча онлайн",
         "time": 54,
-        "src": "../../images/anime/мастера-меча-онлайн.jpg"
+        "src": "../../images/anime/мастера-меча-онлайн.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Милый во Франксе",
         "time": 9,
-        "src": "../../images/anime/милый-франкс.jpg"
+        "src": "../../images/anime/милый-франкс.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Моб Писхо 100",
         "time": 9,
-        "src": "../../images/anime/моб-100.jpg"
+        "src": "../../images/anime/моб-100.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Может я встречу тебя в подземелье",
         "time": 19,
-        "src": "../../images/anime/может-я-встречу-тебя.jpg"
+        "src": "../../images/anime/может-я-встречу-тебя.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Моя геройская академия",
         "time": 42,
-        "src": "../../images/anime/моя-геройская-академия.jpeg"
+        "src": "../../images/anime/моя-геройская-академия.jpeg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Обещенный неверланд",
         "time": 9,
-        "src": "../../images/anime/неверланд.jpg"
+        "src": "../../images/anime/неверланд.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Нет игры нет жизни",
         "time": 6,
-        "src": "../../images/anime/нетигры-нетжизни.jpg"
+        "src": "../../images/anime/нетигры-нетжизни.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "О моем перерождений в слизь",
         "time": 21,
-        "src": "../../images/anime/слизь.jpg"
+        "src": "../../images/anime/слизь.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Притворная любовь",
         "time": 12,
-        "src": "../../images/anime/притворная.jpg"
+        "src": "../../images/anime/притворная.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Розовая пора",
         "time": 14,
-        "src": "../../images/anime/розовая-пора.jpg"
+        "src": "../../images/anime/розовая-пора.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Сделано в бездне",
         "time": 11,
-        "src": "../../images/anime/бездне.jpg"
+        "src": "../../images/anime/бездне.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Семь смертных грехов",
         "time": 37,
-        "src": "../../images/anime/семь.jpg"
+        "src": "../../images/anime/семь.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Семья шпионов",
         "time": 5,
-        "src": "../../images/anime/шпиона.jpg"
+        "src": "../../images/anime/шпиона.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Повар боец Сома",
         "time": 38,
-        "src": "../../images/anime/сома.jpg"
+        "src": "../../images/anime/сома.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Стальной Алхимик",
         "time": 42,
-        "src": "../../images/anime/стальной-алхимик.jpg"
+        "src": "../../images/anime/стальной-алхимик.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Токийские мстители",
         "time": 9,
-        "src": "../../images/anime/мстители.jpg"
+        "src": "../../images/anime/мстители.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Гуль",
         "time": 23,
-        "src": "../../images/anime/гуль.jpg"
+        "src": "../../images/anime/гуль.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Убийца гоблинов",
         "time": 5,
-        "src": "../../images/anime/гоблинов.jpg"
+        "src": "../../images/anime/гоблинов.jpg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Фейри тейл",
         "time": 128,
-        "src": "../../images/anime/фейри.jpeg"
+        "src": "../../images/anime/фейри.jpeg",
+        "isActive": false
     },
     {
         "key": myNewId(),
         "name": "Хантер",
         "time": 58,
-        "src": "../../images/anime/хантер.jpg"
+        "src": "../../images/anime/хантер.jpg",
+        "isActive": false
     },
 ];
